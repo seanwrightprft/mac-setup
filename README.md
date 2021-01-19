@@ -1,6 +1,11 @@
 # mac-setup
 Mac Setup
 
+## VSCode key repeat
+```
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
+```
+
 ```
 cd ~
 git clone https://github.com/seanwrightprft/mac-setup.git
