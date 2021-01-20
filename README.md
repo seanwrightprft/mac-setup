@@ -14,3 +14,7 @@ cp mac-setup/vimrc .vimrc
 git clone https://github.com/VundleVim/Vundle.vim.git $HOME/.vim/bundle/Vundle.vim
 vi -c "PluginInstall" $HOME/.vimrc -c "qa"
 ```
+
+```
+sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+```
