@@ -23,6 +23,10 @@ filetype plugin indent on    " required
 :set noswapfile
 :noh
 :syntax on
+
+" Use new regular expression engine
+set re=0
+
 :set wildmode=list:longest
 :set hidden
 :set wildmenu
