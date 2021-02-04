@@ -11,10 +11,18 @@ cd ~
 git clone https://github.com/seanwrightprft/mac-setup.git
 cp mac-setup/bash_profile .bash_profile
 cp mac-setup/vimrc .vimrc
-git clone https://github.com/VundleVim/Vundle.vim.git $HOME/.vim/bundle/Vundle.vim
-vi -c "PluginInstall" $HOME/.vimrc -c "qa"
 ```
 
-```
-sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
-```
+## Apps
+
+Install these apps:
+
+  * Homebrew
+  * VS Code
+  * Node JS
+  * Java
+  * Android Studio
+  * XCode (from developer download site)
+  * XCode Command Line Tools
+  * Angular
+  * Ionic

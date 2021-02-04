@@ -13,3 +13,7 @@ $> '
 function title {
 echo -ne "\033]0;"$*"\007"
 }
+
+export BASH_SILENCE_DEPRECATION_WARNING=1
+
+alias root='sudo su -'
