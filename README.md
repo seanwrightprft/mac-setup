@@ -20,9 +20,12 @@ Install these apps:
   * Homebrew
   * VS Code
   * Node JS
+    - Install nvm
+    - Install Node LTS
+    ```
+    nvm install --lts
+    ```
   * Java
   * Android Studio
   * XCode (from developer download site)
-  * XCode Command Line Tools
-  * Angular
-  * Ionic
+  * XCode Command Line Tools (from developer download site)
